@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TommyYOyoyo
-- 👀 I’m interested in Python, Javascript, CSS, HTML, Java, C/C++
+- 👀 I’m interested in Python, Javascript, CSS, HTML, Java, C#, C/C++ and Game developement.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on discord
 - 📫 How to reach me discord: TommyYOyoyo#2469
 
 <!---
