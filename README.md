@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TommyYOyoyo
-- 👀 I’m interested in Python, Javascript, CSS, HTML, Java, C#, C/C++, Software engineering and developement, Game developement, Web developement and etc.
-- 🌱 I’m currently learning Python, HTML, CSS, Javascript and MySQL Databases
+- 👀 I’m interested in Software engineering and developement, Game developement, Web developement and data analyze.
+- 🌱 I’m currently learning discord.js bot development, game development, java and some basic data structures in python
 - 📫 How to reach me discord: TommyYOyoyo#8835
 
 <!---
