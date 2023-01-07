@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TommyYOyoyo
 - 👀 I’m interested in Software engineering and developement, Game developement, Web developement and data analyze.
-- 🌱 I’m currently learning discord.js bot development, game development, java and some basic data structures in python
+- 🌱 I’m currently learning basic databases&algorithms, discord.js bot development, game development and java.
 - 📫 How to reach me discord: TommyYOyoyo#8835
 
 <!---
