@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TommyYOyoyo
-- 👀 I’m interested in Software engineering and developement, Game developement, Web developement and data analyze.
-- 🌱 I’m currently learning basic databases&algorithms, discord.js bot development, game development and java.
+- 👀 I’m interested in Software engineering and developement, Game developement, Web developement and AI.
+- 🌱 I’m currently learning discord.js bot development, game development, java and AI Chatbot.
 - 📫 How to reach me discord: You can't reach me MUHAHAHAHAHA
 <!---
 TommyYOyoyo/TommyYOyoyo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
