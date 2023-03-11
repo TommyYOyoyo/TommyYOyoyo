@@ -1,4 +1,4 @@
-### This is TommyYOyoyo
+###### This is TommyYOyoyo
 
 <hr>
 A student who's working to be a developer...
@@ -7,6 +7,8 @@ A student who's working to be a developer...
 - 👀 I’m interested in Software engineering and developement, Game developement, Web developement and AI.
 - 🌱 I’m currently learning discord.js bot development, game development, java and AI Chatbot.
 - 📫 How to reach me discord: You can't reach me MUHAHAHAHAHA
+
+<hr>
 
 🙃 **Imagine, then achieve!**
 <!---
