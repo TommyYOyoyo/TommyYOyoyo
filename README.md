@@ -1,7 +1,7 @@
 # This is TommyYOyoyo
 
 <hr>
-#####A student who wants to be a developer...
+##### A student who wants to be a developer...
 <hr> 
 
 - 👀 **Interested in** Software engineering and developement, Game developement, Web developement and AI.
