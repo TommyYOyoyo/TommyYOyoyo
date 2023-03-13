@@ -1,7 +1,6 @@
 # This is TommyYOyoyo
 
-A student who is working hard to be a developer...
-<hr> 
+####A student who is working hard to be a developer...
 
 - 👀 **Interested in** Software engineering and developement, Game developement, Web developement and AI.
 - 🌱 **Actively learning** discord bot development using discord.js, game development, java and AI.
