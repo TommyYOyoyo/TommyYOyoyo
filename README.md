@@ -1,6 +1,5 @@
 # This is TommyYOyoyo
 
-<hr>
 A student who is working hard to be a developer...
 <hr> 
 
