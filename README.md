@@ -2,6 +2,8 @@
 
 ##### A student who is working hard to be a developer...
 
+#
+
 - 👀 **Interested in** Machine Learning developement, Game developement and Web developement.
 - 🌱 **Actively learning** discord bot development using discord.js, machine learning and java.
 - 📫 **Wanna reach me?** Well you can't reach me for the moment 🥲
