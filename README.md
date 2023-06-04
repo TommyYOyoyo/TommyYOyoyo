@@ -1,6 +1,6 @@
 # This is TommyYOyoyo
 
-##### A student who is working hard to be a developer...
+##### A self-taught programmer...
 
 #
 
