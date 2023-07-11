@@ -1,6 +1,6 @@
 # This is TommyYOyoyo
 
-##### A self-taught programmer...
+##### A self-taught hobbyist programmer...
 
 #
 
