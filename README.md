@@ -4,9 +4,8 @@
 
 #
 
-- 👀 **Interested in** AI and Machine Learning engineering.
-- 🌱 **Actively learning** discord bot development using discord.js, machine learning and java.
-- 📫 **Wanna reach me?** Well you can't reach me for the moment 🥲
+- 👀 **Interested in** AI, ML and game development.
+- 🌱 **Actively learning** All kinds of stuffs... such as Discord.JS and natural language processing...
 
 #
 
