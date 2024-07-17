@@ -5,8 +5,8 @@
 
 <hr>
 
-- 👀 **Interested in** AI, ML and game development.
-- 🌱 **Actively learning** All kinds of stuffs, such as new languages, Discord.JS, game dev and modding, AI...
+- 👀 **Actively willing to discover:** Cybersecurity, AI, ML, game development...
+- 🌱 **Actively learning:** All kinds of stuffs, such as new APIs, Discord.JS, game dev and modding, AI...
 
 <hr>
 
