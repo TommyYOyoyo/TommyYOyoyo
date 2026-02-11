@@ -5,8 +5,8 @@
 
 <hr>
 
-- 👀 **Actively willing to discover:** Cybersecurity, AI, ML, game development...
-- 🌱 **Actively learning:** Arduino, cryptography, Discord.JS, network basics and all kinds of stuffs...
+- 👀 **Actively willing to discover:** ML, data science, embedded programming, cybersecurity...
+- 🌱 **Actively learning:** Data science, ML, React.JS, C++
 
 <hr>
 
